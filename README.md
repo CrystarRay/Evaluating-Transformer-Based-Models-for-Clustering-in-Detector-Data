@@ -1,6 +1,4 @@
-# 0824_saving
-
-This folder contains synthetic data generation for variable-size detector node sets and several model variants for set-to-graph/centre prediction tasks.
+This Repo contains synthetic data generation for variable-size detector node sets and several model variants for set-to-graph/centre prediction tasks.
 
 ## Data generation
 - **File**: `synthetic_data_dynamic_nodes.py`
